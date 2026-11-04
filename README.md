@@ -14,7 +14,7 @@ Asian Barometer. (2018). Asian Barometer Survey Wave 4, 2013–2016 [Data file a
 
 Download the R script in the left column.
 
-# Some notes from the data :
+# Some notes from the data analyst:
 
 -  First, my apologies for ugly looking coding. I am not a clean code. However, I try to document stuff in my code.
 
