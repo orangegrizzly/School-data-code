@@ -5,8 +5,9 @@ Welcome!
 
 This is the school data r-code. To be used for review for either: pre-publication or post-publication.
 
-
-We cannot provide the data set due to ethical restrictions. However, we do post our code. You find the script in the left column.
+Acknowledgement
+*"Data analyzed in this article paper were collected by the Asian Barometer Project (2013-2016), which was co-directed by Professors Fu Hu and Yun-han Chu and received major funding support from Taiwan’s Ministry of Education, Academia Sinica and National Taiwan University. The Asian Barometer Project Office (www.asianbarometer.org) is solely responsible for the data distribution. The author(s) appreciate the assistance in providing data by the institutes and individuals aforementioned. The views expressed herein are the author's(s') own.
+Asian Barometer. (2018). Asian Barometer Survey Wave 4, 2013–2016 [Data file and codebook]. Taipei: Asian Barometer Survey, National Taiwan University and Academia Sinica. Available from the Asian Barometer database."*
 
 
 Download the R script in the left column.
